@@ -1,5 +1,5 @@
 ---
-title: "example"
+title: "This is week 7"
 output: html_document
 ---
 
